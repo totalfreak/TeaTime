@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Your Name <dgkartin@live.dk> -->
+<component type="desktop">
+    <id>com.github.totalfreak.TeaTime</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Tea Time</name>
+    <summary>A timer for your tea brewing</summary>
+    <description>
+        <p>Tired of you tea becoming too strong, because you forgot to remove the bag?</p>
+        <br>
+        <p>Say no more, the tea time app is the tool for you.</p>
+    </description>
+    <custom>
+      <value key="x-appcenter-color-primary">#603461</value>
+      <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+      <value key="x-appcenter-suggested-price">1</value>
+    </custom>
+</component>
