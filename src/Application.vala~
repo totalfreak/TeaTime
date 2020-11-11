@@ -12,7 +12,7 @@ public class App : Gtk.Application {
         //     margin = 12
         // };
 
-        var label = new Gtk.Label (_("What kind of tea you brewing?"));
+        var label = new Gtk.Label ("What kind of tea you brewing?");
 
         // button_hello.clicked.connect(() => {
         //     button_hello.label = "Double wow";
