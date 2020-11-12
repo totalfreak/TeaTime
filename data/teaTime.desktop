@@ -8,3 +8,4 @@ Icon=application-default-icon
 Terminal=false
 Type=Application
 Keywords=Tea;Timer;Brewing;
+X_GNOME_UsesNotifications=true
